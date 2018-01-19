@@ -1,0 +1,16 @@
+{
+    "name": "ElectronAppBase",
+    "version": "0.1.0",
+    "author": "chanaysavoyen",
+    "license": "MIT",
+    "main"    : "main.js",
+    "keywords": [
+        "Electron",
+        "Application",
+        "Base"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chanaysavoyen/ElectronAppBase.git"
+    }
+}
